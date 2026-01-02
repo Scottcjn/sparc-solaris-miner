@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![SPARC](https://img.shields.io/badge/SPARC-Solaris-yellow)](https://github.com/Scottcjn/sparc-solaris-miner) [![UltraSPARC](https://img.shields.io/badge/UltraSPARC-1.6x-green)](https://github.com/Scottcjn/sparc-solaris-miner)
+
 # RustChain SPARC Miner for Solaris
 
 **Mine RTC on your vintage Sun workstation** - UltraSPARC gets 1.6x antiquity bonus!
