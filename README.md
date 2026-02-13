@@ -183,3 +183,10 @@ MIT - Use freely, mine responsibly.
 ---
 
 *Built Christmas 2025 - The Sun never sets on SPARC mining*
+
+
+## 中文简介
+
+Elyan Labs 复古计算项目 - 为 PowerPC 和 SPARC 系统提供现代支持。
+
+Contributed by eelaine-wzw
