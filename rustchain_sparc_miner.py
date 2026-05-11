@@ -74,7 +74,7 @@ def get_sparc_cpu_info():
         for line in output.split("\n"):
             if "UltraSPARC" in line or "SPARC" in line:
                 # Extract model
-                match = re.search(r"(UltraSPARC[^\s,]+|SPARC64[^\s,]*|SPARC-T\d+)", line)
+                match = re.search(r"(UltraSPARC[^\s,'\"]+|SPARC64[^\s,'\"]*|SPARC-T\d+)", line)
                 if match:
                     cpu_info["model"] = match.group(1)
                     break
